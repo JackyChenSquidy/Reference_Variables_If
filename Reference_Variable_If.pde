@@ -17,7 +17,7 @@ void draw() {
 
  communism=communism+landarea;
  
- communism=1;
+ 
  if(communism<1) { 
    landarea=5;
  }
@@ -33,7 +33,7 @@ fill(30);
 
 
 
-  
+  communism=0;
   
 }
   
