@@ -33,7 +33,7 @@ fill(30);
 
 
 
-  communism=0;
+ 
   
 }
   
